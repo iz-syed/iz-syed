@@ -1,4 +1,12 @@
-### Hi there 👋
+### ✨ Syed Mubarak (Mubarak cc7)
+
+User Interface & User Experience Designer / Front End Developer
+
+
+#### 💻 Technologies that I use
+
+![HTML5](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/html.svg) ![CSS3](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/css.svg) ![SASS](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/sass.svg) ![Bootstrap](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/bootstrap.svg) ![TailwindCSS](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/tailwind.svg) ![JavaScript](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/javascript.svg) ![React](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/react.svg)
+
 
 <!--
 **iz-syed/iz-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
