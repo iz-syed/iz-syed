@@ -3,9 +3,9 @@
 User Interface & User Experience Designer / Front End Developer
 
 
-#### 💻 Technologies that I use
+<!-- #### 💻 Technologies that I use
 
-![HTML5](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/html.svg) ![CSS3](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/css.svg) ![SASS](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/sass.svg) ![Bootstrap](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/bootstrap.svg) ![TailwindCSS](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/tailwind.svg) ![JavaScript](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/javascript.svg) ![React](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/react.svg)
+![HTML5](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/html.svg) ![CSS3](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/css.svg) ![SASS](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/sass.svg) ![Bootstrap](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/bootstrap.svg) ![TailwindCSS](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/tailwind.svg) ![JavaScript](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/javascript.svg) ![React](https://raw.githubusercontent.com/juliocodes-sm/juliocodes-sm/main/assets/react.svg) -->
 
 
 <!--
