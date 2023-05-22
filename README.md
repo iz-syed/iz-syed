@@ -5,13 +5,7 @@ User Interface & User Experience Designer / Front End Developer
 
 #### 💻 Technologies that I use
 
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/html.svg" width="120" height="48" />
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/css.svg" width="120" height="48" />
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/sass.svg" width="120" height="48" />
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/bootstrap.svg" width="120" height="48" />
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/tailwind.svg" width="120" height="48" />
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/javascript.svg" width="120" height="48" />
-<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/react.svg" width="120" height="48" />
+<img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/html.svg" width="120" height="48" /> <img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/css.svg" width="120" height="48" /> <img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/sass.svg" width="120" height="48" /> <img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/bootstrap.svg" width="120" height="48" /> <img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/tailwind.svg" width="120" height="48" /> <img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/javascript.svg" width="120" height="48" /> <img src="https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/react.svg" width="120" height="48" />
 
 
 <!-- ![HTML5](https://raw.githubusercontent.com/iz-syed/iz-syed/main/assets/html.svg =120x48) 
